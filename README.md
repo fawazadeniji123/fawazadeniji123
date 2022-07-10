@@ -2,9 +2,9 @@
 
 ## I'm Fawaz, a web developer and ML engineer 
 
-- 🔭 I’m currently working on Skin cancer detection model 
-- 🌱 I’m currently learning Machine learning 
-- 💬 Ask me about web development and machine learning 
+- 🔭 I’m currently working on __*Skin cancer detection model*__
+- 🌱 I’m currently learning __*Machine learning*__
+- 💬 Ask me about __*web development and machine learning*__
 - 📫 How to reach me: fawazadeniji123@gmail.com
 - 😄 Pronouns: HE/HIM
 
