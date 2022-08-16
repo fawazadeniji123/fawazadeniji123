@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Fawaz, a web developer and ML engineer 
+## I'm Fawaz, a Software engineer 
 
 - 🔭 I’m currently working on __*Skin cancer detection model*__
 - 🌱 I’m currently learning __*Machine learning*__
