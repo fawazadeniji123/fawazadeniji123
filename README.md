@@ -110,7 +110,7 @@ Ask me anything
       <a href="#" style="margin:5px"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-### Streaks Stats and Languages
+### 🔥 Streaks Stats and Languages
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazadeniji123&theme=onedark)](https://git.io/streak-stats)
 <br />
