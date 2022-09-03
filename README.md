@@ -52,21 +52,27 @@
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/fawazadeniji123/smart-brain" style="margin-bottom:5px">
+<div style="margin-bottom:5px">
+<a href="https://github.com/fawazadeniji123/smart-brain">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
-
-<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px">
+</div>
+<div style="margin-bottom:5px">
+<a href="https://github.com/fawazadeniji123/smart-brain-api">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
-
-<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px">
+</div>
+<div style="margin-bottom:5px">
+<a href="https://github.com/fawazadeniji123/Blur-AI">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
-
-<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops" style="margin-bottom:5px">
+</div>
+<div style="margin-bottom:5px">
+<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
 </a>
+</div>
+
 </div>
 
 <br />
@@ -154,9 +160,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Andy Bernard</p>
+> <p>- Gabe Lewis</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
