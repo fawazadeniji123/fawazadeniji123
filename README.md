@@ -56,11 +56,11 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
 
-<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px"">
+<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
 
-<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px"">
+<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
 
@@ -154,9 +154,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Jim Halpert</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
