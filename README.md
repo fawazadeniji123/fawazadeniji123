@@ -148,10 +148,17 @@ Ask me anything
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
 
 </div>
-<div>
-<p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+<div align="center">
 
-<p>- Michael Scott</p>
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> I feel God in this Chili’s tonight.
+>
+> <p>- Pam Beesly</p>
+> _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
+
 </div>
