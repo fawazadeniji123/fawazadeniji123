@@ -56,11 +56,11 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
 
-<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px"">
+<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
 
-<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px"">
+<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px">
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
 
