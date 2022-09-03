@@ -52,19 +52,19 @@
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/fawazadeniji123/smart-brain" style="margin:1rem">
+<a href="https://github.com/fawazadeniji123/smart-brain" style="margin-bottom:5px">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
-<br />
-<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin:1rem">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
+
+<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin-bottom:5px"">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
-<br />
-<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin:1rem">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
+
+<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin-bottom:5px"">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
-<br />
-<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops" style="margin:1rem">
+
+<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops" style="margin-bottom:5px">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
 </a>
 </div>
@@ -154,9 +154,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Oscar Martinez</p>
+> <p>- Pam Beesly</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
