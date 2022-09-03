@@ -48,6 +48,29 @@
 
 <br />
 <br />
+<div>
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/fawazadeniji123/smart-brain">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
+</a>
+
+<a href="https://github.com/fawazadeniji123/smart-brain-api">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
+</a>
+
+<a href="https://github.com/fawazadeniji123/Blur-AI">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
+</a>
+
+<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
+</a>
+</div>
+
+<br />
+<br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you
 think something could be better.<br />
@@ -62,7 +85,7 @@ Ask me anything
 
 <div align="center">
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Skills
 
 ### 👨‍💻 Programming Languages
 
@@ -110,7 +133,7 @@ Ask me anything
       <a href="#" style="margin:5px"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-### 🔥 Streaks Stats and Languages
+### 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazadeniji123&theme=onedark)](https://git.io/streak-stats)
 <br />
@@ -124,4 +147,11 @@ Ask me anything
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
 
+</div>
+<div>
+<p>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</p>
+
+<p>- Michael Scott</p>
+
+Check back at the top of the hour for a new quote!
 </div>
