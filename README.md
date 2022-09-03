@@ -55,15 +55,15 @@
 <a href="https://github.com/fawazadeniji123/smart-brain">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
-
+<br />
 <a href="https://github.com/fawazadeniji123/smart-brain-api">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
-
+<br />
 <a href="https://github.com/fawazadeniji123/Blur-AI">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
-
+<br />
 <a href="https://github.com/fawazadeniji123/alx-system_engineering-devops">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
 </a>
@@ -154,10 +154,11 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
 >
-> <p>- Pam Beesly</p>
-> _Quote requested from [The Office API](https://www.officeapi.dev/)_
+> <p>- Phyllis Lapin</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
 
 Check back at the top of the hour for a new quote!
 
