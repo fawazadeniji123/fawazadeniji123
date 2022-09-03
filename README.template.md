@@ -52,19 +52,19 @@
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/fawazadeniji123/smart-brain">
+<a href="https://github.com/fawazadeniji123/smart-brain" style="margin:1rem">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
 </a>
 <br />
-<a href="https://github.com/fawazadeniji123/smart-brain-api">
+<a href="https://github.com/fawazadeniji123/smart-brain-api" style="margin:1rem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
 </a>
 <br />
-<a href="https://github.com/fawazadeniji123/Blur-AI">
+<a href="https://github.com/fawazadeniji123/Blur-AI" style="margin:1rem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
 </a>
 <br />
-<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops">
+<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops" style="margin:1rem">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
 </a>
 </div>
