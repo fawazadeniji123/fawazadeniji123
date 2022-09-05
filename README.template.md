@@ -1,7 +1,9 @@
 <div align="center">
   <h2>
-    ~ Hi There, I'm Fawaz Adeniji! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> ~
+    <!-- ~ Hi There, I'm Fawaz Adeniji! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> ~ -->
+    <img src="./assests/header.png" alt="~ Hi There, I'm Fawaz Adeniji! ~" />
+    
   </h2>
   <div>
     <p align='right'>
