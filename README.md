@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> Everybody stay calm! Stay f*&#!#% calm!
 >
 > <p>- Michael Scott</p>
 
