@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
 > <p>- Michael Scott</p>
 
