@@ -162,9 +162,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
