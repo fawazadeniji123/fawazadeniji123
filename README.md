@@ -162,9 +162,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I feel God in this Chili’s tonight.
+> Did I stutter?
 >
-> <p>- Pam Beesly</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
