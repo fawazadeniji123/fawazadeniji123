@@ -162,9 +162,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I am immensely proud of what I did for that turtle!
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Kevin Malone</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
