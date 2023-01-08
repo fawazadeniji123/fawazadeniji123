@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> Bears, Beets, Battlestar Galactica.
 >
 > <p>- Jim Halpert</p>
 
