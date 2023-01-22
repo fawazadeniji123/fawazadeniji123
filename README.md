@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Everybody stay calm! Stay f*&#!#% calm!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
