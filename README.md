@@ -162,9 +162,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> It has to be official, and it has to be urine.
 >
-> <p>- Pam Beesly</p>
+> <p>- Dwight Schrute</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
