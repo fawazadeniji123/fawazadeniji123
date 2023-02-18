@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
