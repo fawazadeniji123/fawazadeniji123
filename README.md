@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
 >
 > <p>- Michael Scott</p>
 
