@@ -10,7 +10,7 @@
       <img src="https://gpvc.arturio.dev/fawazadeniji123" alt="Profile views" /> <a href="https://github.com/fawazadeniji123/fawazadeniji123/"></a> 
     </p>
     <p align="center">
-      <a href="https://github.com/fawazadeniji123"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine%20Learning%20Developer;Life%20long%20learner&center=true&width=400&height=50"></a>
+      <a href="https://github.com/fawazadeniji123"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine%20Learning%20Engineer;Life%20long%20learner&center=true&width=400&height=50"></a>
     </p>
     <a href="https://linkedin.com/in/fawazadeniji123" target="_blank">
       <img
@@ -34,7 +34,7 @@
 <div align="left">
 
 ```
-💻 I am a Software Engineer and Machine Learning Developer
+💻 I am a Software Engineer and Machine Learning Engineer
 📝 I have a strong interest in Software Development and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Software Engineering and Deep Learning
@@ -162,9 +162,9 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Erin Hannon</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
