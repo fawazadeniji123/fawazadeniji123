@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Sorry I annoyed you with my friendship.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
 > <p>- Andy Bernard</p>
 
