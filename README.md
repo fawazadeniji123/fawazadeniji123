@@ -162,7 +162,7 @@ Ask me anything
 
 ## 📣 How about an Office quote before you go?
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 
