@@ -156,18 +156,4 @@ Ask me anything
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
 
 </div>
-<div align="center">
 
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-</div>
