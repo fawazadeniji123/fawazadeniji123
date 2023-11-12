@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Let the magic happen
-        uses: actions/setup-node@v1
+      - name: Setting up node
+        uses: actions/setup-node@v2
         with:
           node-version: 14.6.0
 
