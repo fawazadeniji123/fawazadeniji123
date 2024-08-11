@@ -7,7 +7,7 @@
   </h2>
   <div>
     <p align='right'>
-      <img src="https://gpvc.arturio.dev/fawazadeniji123" alt="Profile views" /> <a href="https://github.com/fawazadeniji123/fawazadeniji123/"></a> 
+      <a href="https://u8views.com/github/fawazadeniji123"><img src="https://u8views.com/api/v1/github/profiles/53912203/views/day-week-month-total-count.svg"></a>
     </p>
     <p align="center">
       <a href="https://github.com/fawazadeniji123"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine%20Learning%20Engineer;Life%20long%20learner&center=true&width=400&height=50"></a>
