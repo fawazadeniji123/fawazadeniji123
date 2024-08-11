@@ -121,6 +121,6 @@ Ask me anything <a href="[mailto:fawazadeniji@gmail.com](https://github.com/fawa
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fawazadeniji123&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=onedark)**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
 
 </div>
