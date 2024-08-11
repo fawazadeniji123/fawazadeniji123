@@ -39,7 +39,8 @@
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Software Engineering and Deep Learning
 📚 I am currently pursuing a Bachelors in Mechatronics Engineering
-✨ Main languages: JavaScript, Python
+✨ Main languages: JavaScript, Python, Typescript
+✨ Othor languages: Rust, Go, C, C++, Java
 🚩 Interested in Full Stack Machine Learning Application development
 💬 Ask me about:  web development and machine learning
 ```
