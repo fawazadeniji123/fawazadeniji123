@@ -51,37 +51,6 @@
 <br />
 <br />
 <div>
-
-## 📌 Pinned Repositories
-
-<div style="margin-bottom:5px">
-<a href="https://github.com/fawazadeniji123/smart-brain">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain&theme=onedark" />
-</a>
-</div>
-<div style="margin-bottom:5px">
-<a href="https://github.com/fawazadeniji123/smart-brain-api">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=smart-brain-api&theme=onedark" />
-</a>
-</div>
-<div style="margin-bottom:5px">
-<a href="https://github.com/fawazadeniji123/Blur-AI">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=Blur-AI&theme=onedark" />
-</a>
-</div>
-<div style="margin-bottom:5px">
-<a href="https://github.com/fawazadeniji123/alx-system_engineering-devops">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fawazadeniji123&repo=alx-system_engineering-devops&theme=onedark" />
-</a>
-</div>
-
-</div>
-
-<br />
-<br />
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you
-think something could be better.<br />
 Ask me anything
 **[here](https://github.com/fawazadeniji123/fawazadeniji123/issues/new)** or
 <a href="mailto:fawazadeniji@gmail.com"><b>send me an email</b></a>
@@ -154,20 +123,5 @@ Ask me anything
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
-
-</div>
-<div align="center">
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
->
-> <p>- Michael Scott</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
 
 </div>
