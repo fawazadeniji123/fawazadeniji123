@@ -7,12 +7,12 @@
   </h2>
   <div>
     <p align='right'>
-      <a href="https://u8views.com/github/fawazadeniji123"><img src="https://u8views.com/api/v1/github/profiles/53912203/views/total-count.svg"></a>
+      <a href="https://u8views.com/github/fawazadeniji"><img src="https://u8views.com/api/v1/github/profiles/53912203/views/total-count.svg"></a>
     </p>
     <p align="center">
-      <a href="https://github.com/fawazadeniji123"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine%20Learning%20Engineer;Life%20long%20learner&center=true&width=400&height=50"></a>
+      <a href="https://github.com/fawazadeniji"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine%20Learning%20Engineer;Life%20long%20learner&center=true&width=400&height=50"></a>
     </p>
-    <a href="https://linkedin.com/in/fawazadeniji123" target="_blank">
+    <a href="https://linkedin.com/in/fawazadeniji" target="_blank">
       <img
       src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white
       alt=linkedin style="margin-bottom: 5px;" />
@@ -52,8 +52,8 @@
 <br />
 <br />
 <div>
-Ask me anything <a href="[mailto:fawazadeniji@gmail.com](https://github.com/fawazadeniji123/fawazadeniji123/issues/new)"><b>here</b></a> or
-<a href="mailto:fawazadeniji@gmail.com"><b>send me an email</b></a>
+Ask me anything <a href="[mailto:fawazadeniji123@gmail.com](https://github.com/fawazadeniji/fawazadeniji/issues/new)"><b>here</b></a> or
+<a href="mailto:fawazadeniji123@gmail.com"><b>send me an email</b></a>
 
 <br />
 <br />
@@ -112,16 +112,16 @@ Ask me anything <a href="[mailto:fawazadeniji@gmail.com](https://github.com/fawa
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazadeniji123&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazadeniji&theme=onedark)](https://git.io/streak-stats)
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawazadeniji123&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=onedark" alt="Fawaz Adeniji Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawazadeniji&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=onedark" alt="Fawaz Adeniji Github Stats">
 <br />
 <br />
 
-**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fawazadeniji123&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=onedark)**
+**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fawazadeniji&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=onedark)**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji123&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawazadeniji&exclude_repo=colab&layout=compact&theme=onedark" alt="Fawaz Adeniji Top Languages"/>
 
 </div>
